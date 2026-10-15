@@ -236,4 +236,4 @@ This repository serves as the official landing page for V-REP. The software is d
 **Get the most recent version of V-REP today!**
 
 ---
-**Last updated:** 2026-10-14 22:53:56 UTC
+**Last updated:** 2026-10-15 01:08:48 UTC
